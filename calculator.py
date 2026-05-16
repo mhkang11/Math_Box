@@ -8,5 +8,5 @@ def subtract(a, b);
 def muliply(a, b);
 	return a*b
 
-def divide(a, b);
+def divide_premium(a, b);
 	return a/b
